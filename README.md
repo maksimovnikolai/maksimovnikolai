@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <h2>iOS Mobile Application Developer </h2>
+    <h2>iOS Developer </h2>
 </div>
 
 <div id="socials" align="center">
